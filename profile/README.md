@@ -1,3 +1,18 @@
+ 
+<p align="center">
+Building intelligent, privacy-first solutions that help families create a safer digital environment for children.
+</p>
+
+<p align="center">
+  <a href="https://anis.solutions">Website</a>
+  ·
+  <a href="https://github.com/ANIS-Solutions">Organization</a>
+  ·
+  <a href="https://github.com/ANIS-Solutions/documentation">Documentation</a>
+</p>
+
+<br/>
+
 ## Overview
 
 ANIS is an AI-powered parental control ecosystem that combines cloud intelligence, on-device AI, and real-time monitoring to help parents understand, protect, and support their children.
@@ -50,5 +65,11 @@ ANIS aims to create ethical, transparent, and intelligent digital parenting tool
 <br/>
 
 <p align="center">
+  <a href="https://anis.solutions">Website</a> •
+  <a href="https://github.com/ANIS-Solutions">GitHub</a>
+</p>
+
+<p align="center">
 ANIS Solutions
-</p> 
+</p>
+ 
